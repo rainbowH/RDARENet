@@ -9,16 +9,16 @@
 ## Synthetic Datasets
    | Datasets | train | test |
    | :------- | -----: | ----: |
-   | [Rain100L](https://github.com/rainbowH/DerainZoo/blob/master/DerainDatasets.md) | 200    | 100   |
-   | [Rain100H](https://github.com/rainbowH/DerainZoo/blob/master/DerainDatasets.md) | 1800   | 100   |
-   | [Rain800](https://github.com/rainbowH/DerainZoo/blob/master/DerainDatasets.md)  | 700    | 100   |
-   | [Rain12](https://github.com/rainbowH/DerainZoo/blob/master/DerainDatasets.md) |   | 12  | 
+   | [Rain100L](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md) | 200    | 100   |
+   | [Rain100H](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md) | 1800   | 100   |
+   | [Rain800](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md)  | 700    | 100   |
+   | [Rain12](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md) |   | 12  | 
    
    
 ## Real-World Datasets
    | Datasets | #test |
    | :------- | :-----: |
-   | [Real-World](https://github.com/rainbowH/DerainZoo/blob/master/DerainDatasets.md) |67 |
+   | [Real-World](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md) |67 |
 
 # Pre-trained Model
 **We note that these models is trained on NVIDIA GeForce RTX2080Ti:**
