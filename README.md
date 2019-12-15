@@ -3,8 +3,6 @@
 # Abstract
    Single image deraining is an ill-posed inverse problem due to the presence of non-uniform rain shapes, directions, and densities in images. In this paper, we propose a Single Image Deraining Using a Recurrent Dual-Attention-Residual Ensemble Network(RDARNet). Extensive experiments demonstrate that the effect of removing rain and restoring texture details is greatly improved.
 
-<p align='center'><img src='./materials/RDARNet.png' height="600px"/></p>
-
 # Dataset
 ## Synthetic Datasets
    | Datasets | train | test |
@@ -24,9 +22,9 @@
 
 
 # Requirements
-   - python 3.6.5
-   - opencv 3.4.2
-   - pyotrch 
+   - python 3.6.8
+   - opencv 4.1.2
+   - pyotrch 1.0.0
 
 # Usages
    - **Clone this repo**
