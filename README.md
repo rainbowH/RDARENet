@@ -14,20 +14,14 @@
    | [Rain800](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md)  | 700    | 100   |
    | [Rain12](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md) |   | 12  | 
    
-   
-## Real-World Datasets
-   | Datasets | #test |
-   | :------- | :-----: |
-   | [Real-World](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md) |67 |
 
 # Pre-trained Model
 **We note that these models is trained on NVIDIA GeForce RTX2080Ti:**
 
 | Datasets | Pre-trained model |
 | :------ | :--------------- |
-| Rain100L | [Rain100L model](https://github.com/rainbowH/RDARENet/tree/master/codes/checkpoint/) |
 | Rain100H | [Rain100H model TAB](https://github.com/rainbowH/RDARENet/tree/master/codes/checkpoint/) |
-| Rain800 | [Rain800 model TAB](https://github.com/rainbowH/RDARENet/tree/master/codes/checkpoint/) |
+
 
 # Requirements
    - python 3.6.5
@@ -43,10 +37,5 @@
 
    - **Test**
    ```
-      $ python RDARENet_test.py --is_testing True
-		      --train_dataset Rain100L
-		      --test_dataset Rain100L
-		      --trainset_size 200
-		      --testset_size 100
-		      --batch_size 32
+      $ python RDARENet_test.py 
    ```
