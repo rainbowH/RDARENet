@@ -18,7 +18,7 @@
 
 | Datasets | Pre-trained model |
 | :------ | :--------------- |
-| Rain100H | [Rain100H model TAB](https://github.com/rainbowH/RDARENet/tree/master/codes/checkpoint/) |
+| Rain100H | [Rain100H model](https://github.com/rainbowH/RDARENet/tree/master/models) |
 
 
 # Requirements
